@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render on api dont response items 1`] = `[Function]`;
+
+exports[`render on api response items 1`] = `[Function]`;
